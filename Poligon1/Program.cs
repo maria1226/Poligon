@@ -45,7 +45,7 @@ namespace Poligon1
                 }
                 else if (q.Type == "Trapezoid")
                 {
-
+                    q.ChekTrapezoid();
                 }
             }
             else
