@@ -1,0 +1,13 @@
+C:\Users\maria\source\repos\Poligon1\Poligon1\obj\Debug\netcoreapp3.1\Poligon1.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\Poligon1\Poligon1\obj\Debug\netcoreapp3.1\Poligon1.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Poligon1\Poligon1\obj\Debug\netcoreapp3.1\Poligon1.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Poligon1\Poligon1\obj\Debug\netcoreapp3.1\Poligon1.AssemblyInfo.cs
+C:\Users\maria\source\repos\Poligon1\Poligon1\bin\Debug\netcoreapp3.1\Poligon1.exe
+C:\Users\maria\source\repos\Poligon1\Poligon1\bin\Debug\netcoreapp3.1\Poligon1.deps.json
+C:\Users\maria\source\repos\Poligon1\Poligon1\bin\Debug\netcoreapp3.1\Poligon1.runtimeconfig.json
+C:\Users\maria\source\repos\Poligon1\Poligon1\bin\Debug\netcoreapp3.1\Poligon1.runtimeconfig.dev.json
+C:\Users\maria\source\repos\Poligon1\Poligon1\bin\Debug\netcoreapp3.1\Poligon1.dll
+C:\Users\maria\source\repos\Poligon1\Poligon1\bin\Debug\netcoreapp3.1\Poligon1.pdb
+C:\Users\maria\source\repos\Poligon1\Poligon1\obj\Debug\netcoreapp3.1\Poligon1.dll
+C:\Users\maria\source\repos\Poligon1\Poligon1\obj\Debug\netcoreapp3.1\Poligon1.pdb
+C:\Users\maria\source\repos\Poligon1\Poligon1\obj\Debug\netcoreapp3.1\Poligon1.genruntimeconfig.cache
