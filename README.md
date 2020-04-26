@@ -4,3 +4,4 @@ cd .\Poligon\Poligon1\
 dotnet build 
 dotnet run
 ```
+![Geometric Shapes](./screenshot/screenshot.jpg)
