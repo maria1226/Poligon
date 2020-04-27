@@ -1,6 +1,7 @@
 ﻿# Inheritance, abstraction and interfaces in C#
 ## Prerequisites
-- .NET
+- Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- Install [.NET](https://docs.microsoft.com/en-us/dotnet/)
 ### How to use it:
 
 ```
